@@ -1,4 +1,4 @@
-# Steg-Hide
+# Stega-Hide
 Steganography is the art of concealing a file or a message within another file.
 - This program takes in 2/3 inputs (3rd input is optional). The first input is the name of the superficial file and the second input is the name of the file you want to hide. The third input is the name of the final file (if not entered. the program will name it "out" with the appropriate extention).
 - The user is presented with 2 choices, to compress the file to be hidden using winrar or python. If winrar is installed using the default path, the program will use the winrar's executable file to compress the file. 
