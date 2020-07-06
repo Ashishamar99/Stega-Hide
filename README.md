@@ -30,7 +30,7 @@ Steganography is the art of concealing a file or a message within another file.
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br />
 
-#### 3) Hiding the file "secrets.txt" behind the image "img.jpg" using python and renaming the output file as "hidden".
+#### 3) Hiding the file "secrets.txt" behind the image "img.jpg" using python and naming the output file as "hidden".
 - ![Compress with Python](https://github.com/Ashishamar99/Stega-Hide/blob/master/images/compress%20with%20python.png) <br /> <br /> <br />
 
 #### 4) Opening the file "hidden.jpg" using winrar to view the hidden file.
