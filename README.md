@@ -10,4 +10,10 @@ Steganography is the art of concealing a file or a message within another file.
 
 **To run the program - python menusteg.py**
 
+----------------------------------------------------------------------------------------------------------------------------------------
 **Note - To open the hidden compressed file, open the final image file with a compression software such as winzip/winrar/peazip/7zip and extract it to a specified location.**
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+#### Hiding the file "secrets.txt" behind the image "img.jpg" using winrar.
+- 
